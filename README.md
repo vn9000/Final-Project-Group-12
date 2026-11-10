@@ -1,5 +1,5 @@
 # Final-Project-Group-12
-## Team Members:
+## Team Members
 - Rohan Koka
 - Aidan Quinn
 - Vasanth Narayanan
