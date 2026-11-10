@@ -1,2 +1,5 @@
 # Final-Project-Group-12
-the repo for final project group 12
+## Team Members:
+- Rohan Koka
+- Aidan Quinn
+- Vasanth Narayanan
